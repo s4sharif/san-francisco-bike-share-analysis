@@ -1,0 +1,71 @@
+"station_name","out_degree","in_degree","balance"
+"2nd at Folsom",157,0,157
+"2nd at South Park",152,1,151
+"2nd at Townsend",330,7,323
+"5th at Howard",130,2,128
+"Adobe on Almaden",13,0,13
+"Arena Green / SAP Center",11,4,7
+"Beale at Market",159,1,158
+"Broadway St at Battery St",143,3,140
+"California Ave Caltrain Station",16,5,11
+"Castro Street and El Camino Real",27,2,25
+"Civic Center BART (7th at Market)",120,0,120
+"Clay at Battery",107,2,105
+"Commercial at Montgomery",122,7,115
+"Cowper at University",15,0,15
+"Davis at Jackson",130,5,125
+"Embarcadero at Bryant",150,7,143
+"Embarcadero at Folsom",164,0,164
+"Embarcadero at Sansome",364,26,338
+"Embarcadero at Vallejo",134,8,126
+"Evelyn Park and Ride",21,2,19
+"Franklin at Maple",1,1,0
+"Golden Gate at Polk",98,1,97
+"Grant Avenue at Columbus Avenue",141,2,139
+"Harry Bridges Plaza (Ferry Building)",420,12,408
+"Howard at 2nd",159,3,156
+"Japantown",33,0,33
+"MLK Library",17,1,16
+"Market at 10th",210,11,199
+"Market at 4th",217,14,203
+"Market at Sansome",224,5,219
+"Mechanics Plaza (Market at Battery)",139,8,131
+"Mezes Park",3,0,3
+"Mountain View Caltrain Station",98,4,94
+"Mountain View City Hall",40,2,38
+"Palo Alto Caltrain Station",32,8,24
+"Park at Olive",9,0,9
+"Paseo de San Antonio",20,1,19
+"Post at Kearney",115,0,115
+"Powell Street BART",179,3,176
+"Powell at Post (Union Square)",113,4,109
+"Redwood City Caltrain Station",19,1,18
+"Redwood City Medical Center",3,0,3
+"Redwood City Public Library",4,0,4
+"Rengstorff Avenue / California Street",10,2,8
+"Ryland Park",25,0,25
+"SJSU - San Salvador at 9th",23,2,21
+"SJSU 4th at San Carlos",11,2,9
+"San Antonio Caltrain Station",21,0,21
+"San Antonio Shopping Center",14,0,14
+"San Francisco Caltrain (Townsend at 4th)",451,4,447
+"San Francisco Caltrain 2 (330 Townsend)",489,3,486
+"San Francisco City Hall",36,2,34
+"San Jose City Hall",17,0,17
+"San Jose Civic Center",24,8,16
+"San Jose Diridon Caltrain Station",102,0,102
+"San Mateo County Center",5,1,4
+"San Pedro Square",27,0,27
+"San Salvador at 1st",8,0,8
+"Santa Clara County Civic Center",9,0,9
+"Santa Clara at Almaden",26,1,25
+"South Van Ness at Market",114,3,111
+"Spear at Folsom",135,2,133
+"St James Park",19,1,18
+"Stanford in Redwood City",12,2,10
+"Steuart at Market",296,9,287
+"Temporary Transbay Terminal (Howard at Beale)",255,2,253
+"Townsend at 7th",279,1,278
+"University and Emerson",16,10,6
+"Washington at Kearney",71,0,71
+"Yerba Buena Center of the Arts (3rd @ Howard)",88,1,87
