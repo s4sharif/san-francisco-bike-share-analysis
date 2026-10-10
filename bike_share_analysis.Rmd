@@ -77,9 +77,9 @@ The raw data sets include trip-level data for two weeks in July 2014 and July 20
 ```{r}
 
 # Read the datasets
-july_2014 <- read.csv("/Users/sharif/Desktop/2740/A10/SF-bikeshare-1-week-2014-07.csv")
-july_2015 <- read.csv("/Users/sharif/Desktop/2740/A10/SF-bikeshare-1-week-2015-07.csv")
-station_info <- read.csv("/Users/sharif/Desktop/2740/A10/SF-bikeshare-station-info.csv")
+july_2014 <- read.csv("data/raw/SF-bikeshare-1-week-2014-07.csv")
+july_2015 <- read.csv("data/raw/SF-bikeshare-1-week-2015-07.csv")
+station_info <- read.csv("data/raw/SF-bikeshare-station-info.csv")
 
 # Step 1: Ensure consistency in station names and IDs
 # Rename columns in station_info for clarity and compatibility
