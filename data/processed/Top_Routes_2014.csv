@@ -1,0 +1,11 @@
+"start_station_name","end_station_name","total_trips","avg_duration"
+"Harry Bridges Plaza (Ferry Building)","Embarcadero at Sansome",82,1315.0487804878
+"Embarcadero at Sansome","Steuart at Market",49,412.755102040816
+"Market at Sansome","2nd at South Park",46,372.130434782609
+"San Francisco Caltrain (Townsend at 4th)","Embarcadero at Folsom",46,834.413043478261
+"2nd at South Park","Market at Sansome",44,397.886363636364
+"Market at 10th","San Francisco Caltrain (Townsend at 4th)",43,579.674418604651
+"2nd at Townsend","Harry Bridges Plaza (Ferry Building)",42,517.190476190476
+"San Francisco Caltrain (Townsend at 4th)","Temporary Transbay Terminal (Howard at Beale)",42,645.857142857143
+"San Francisco Caltrain 2 (330 Townsend)","Townsend at 7th",42,235.02380952381
+"Townsend at 7th","San Francisco Caltrain (Townsend at 4th)",42,234.02380952381
